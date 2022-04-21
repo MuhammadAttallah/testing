@@ -1,4 +1,0 @@
-doing that for just a trial and test
-"so you improve your git skills"
-
-[checking the git diff command]
