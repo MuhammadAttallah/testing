@@ -1,1 +1,2 @@
 Test no 6.
+Report the differences between test no 5. and test no .6.
